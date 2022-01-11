@@ -1,10 +1,4 @@
-/**************************************************
-Program: Bridge Boot Camp Tech Session 
-Lab Num: Java Programming 
-Author: Rasika Alahakoon
-Purpose: Calculate the sales value
-A description of the program/class goes here
-**************************************************/
+
 import java.util.Scanner;
 
 public class SalesValueCalculator2{
